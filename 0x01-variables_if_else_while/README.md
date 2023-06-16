@@ -62,13 +62,6 @@ implementing `while` loops.
     * Numbers are separated by `,`, followed by a space.
     * Numbers are printed in ascending order.
 
-* **10. 00...99**
-  * [10-print_comb2.c](./10-print_comb2.c): C program that prints the numbers from `00`
-  to `99` using only the `putchar` function exactly five times without any variables of
-  type `char`:
-    * Numbers are separated by `,`, followed by a space.
-    * Numbers are printed in ascending order, with two digits.
-
 * **11. Inventing is a combination of brains and materials. The more brains you use, the less material you need**
   * [100-print_comb3.c](./100-print_comb3.c): C program that prints all possible different
   combinations of two digits using only the `putchar` function exactly five times without any
