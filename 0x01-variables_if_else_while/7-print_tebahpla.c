@@ -1,6 +1,6 @@
 /*
-  File: 7-print_tebahpla.c
-  Auth: Wael AboSamra
+ * File: 7-print_tebahpla.c
+ * Auth: Wael AboSamra
  */
 
 #include <stdio.h>

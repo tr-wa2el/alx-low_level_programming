@@ -1,6 +1,6 @@
 /*
-  File: 8-print_base16.c
-  Auth: Wael AboSamra
+ * File: 8-print_base16.c
+ * Auth: Wael AboSamra
  */
 
 #include <stdio.h>

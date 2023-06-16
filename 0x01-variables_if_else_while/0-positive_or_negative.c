@@ -1,6 +1,6 @@
 /*
-  File: 0-positive_or_negative.c
-  Auth: Wael Mohamed
+ * File: 0-positive_or_negative.c
+ * Auth: Wael Mohamed
  */
 
 #include <stdlib.h>

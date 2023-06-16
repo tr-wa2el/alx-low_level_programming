@@ -1,6 +1,6 @@
 /*
  * File: 101-print_comb4.c
- * Auth: Brennan D Baraban
+ * Auth: Wael AboSamra
  */
 
 #include <stdio.h>

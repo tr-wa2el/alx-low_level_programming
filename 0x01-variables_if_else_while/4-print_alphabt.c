@@ -1,6 +1,6 @@
 /*
-  File: 4-print_alphabt.c
-  Auth: Wael AboSamra
+ * File: 4-print_alphabt.c
+ * Auth: Wael AboSamra
  */
 
 #include <stdio.h>

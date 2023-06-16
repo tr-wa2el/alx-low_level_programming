@@ -1,6 +1,6 @@
 /*
-  File: 6-print_numberz.c
-  Auth: Wael AboSamra
+ * File: 6-print_numberz.c
+ * Auth: Wael AboSamra
  */
 
 #include <stdio.h>
