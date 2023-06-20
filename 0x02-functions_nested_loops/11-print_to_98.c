@@ -18,12 +18,11 @@ void print_to_98(int n)
 		if (n >= 98)
 		{
 			printf("%u, ", n--);
-			printf("%u\n", n);
 		}
 		else
 		{
 			printf("%u, ", n++);
-			printf("%u\n", n);
 		}
 	}
+	 printf("%u\n", n);
 }
