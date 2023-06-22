@@ -1,8 +1,3 @@
-/*
- * File: 1-main.c
- * Auth: Wael AboSamra
- */
-
 #include <stdio.h>
 
 /**
