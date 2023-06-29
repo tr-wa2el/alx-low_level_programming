@@ -5,7 +5,6 @@
  * print_buffer - function that prints a buffer.
  * @b: The buffer to be printed.
  * @size: The number of bytes to be printed from the buffer.
- * 
  * Return: void
  */
 void print_buffer(char *b, int size)
