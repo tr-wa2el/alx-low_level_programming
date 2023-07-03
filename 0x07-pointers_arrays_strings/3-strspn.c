@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 /**
  * _strspn - prints the consecutive caracters.
  * @s: source string
@@ -7,6 +8,7 @@
  *
  * Return: unsigned int.
  */
+
 unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int i, j;
@@ -18,7 +20,7 @@ unsigned int _strspn(char *s, char *accept)
 			if (*(s + j) == *(accept + i))
 				break;
 		}
-	if (*(accept + i) == '\0')
+		if (*(accept + i) == '\0')
 		break;
 	}
 	return (j);
