@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
  * print_diagsums - print additions of the two diagonals.
  * @a: source matrix
@@ -7,6 +8,7 @@
  *
  * Return: void.
  */
+
 void print_diagsums(int *a, int size)
 {
 	int i, j, sumdiag1 = 0, sumdiag2 = 0, step1, step2;
